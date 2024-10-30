@@ -1,0 +1,17 @@
+.cuu-instructions, .cuu-status {
+	font-size: 1.2em;
+}
+
+.cuu-warning {
+	font-weight: bold;
+}
+
+form.cuu-conf {
+	margin: 30px 0;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+.cuu-bflogo {
+	vertical-align: middle;
+}
